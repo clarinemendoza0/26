@@ -1,0 +1,54 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "What is the process by which plants make their own food using sunlight?",
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "answer": "O2"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "answer": "Mars"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "answer": "Skin"
+  },
+  {
+    "question": "What is the smallest unit of matter?",
+    "answer": "Atom"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the process by which a liquid turns into a gas at the surface of the liquid?",
+    "answer": "Evaporation"
+  },
+  {
+    "question": "What is the study of the Earth's physical structure and substance called?",
+    "answer": "Geology"
+  },
+  {
+    "question": "What is the largest moon of Saturn?",
+    "answer": "Titan"
+  }
+]
